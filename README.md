@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with life
 - 💬 Ask me about my dogs!
-- 📫 How to reach me: [linkedin](https://www.linked.com/in/nathan-robinson-055272156/)
+- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/nathan-robinson-055272156/)
 - ⚡ Fun fact: ...
