@@ -1,5 +1,3 @@
-	![Nathan Robinson](nathan.jpg)
-
 ## 👋 I'm Nathan, welcome to my GitHub profile.
 
 # About Me
