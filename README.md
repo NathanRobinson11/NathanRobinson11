@@ -1,3 +1,5 @@
+	![Nathan Robinson](nathan.jpg)
+
 ## 👋 I'm Nathan, welcome to my GitHub profile.
 
 # About Me
@@ -10,3 +12,5 @@
 - 💬 Ask me about my dogs!
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/nathan-robinson-055272156/)
 - ⚡ 2021 goal: To start a new career as a Junior Developer 
+
+---
